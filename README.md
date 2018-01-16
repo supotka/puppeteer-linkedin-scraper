@@ -13,6 +13,7 @@ npm i
 ```
 
 ## Running the Scraper
+Change the `EMAIL` and `PASSWORD` variables in `.env` file then start the app.
 ```
 npm start
 ```
